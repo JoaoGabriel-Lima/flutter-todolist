@@ -1,6 +1,6 @@
 # tabela_app
 
-A new Flutter project.
+Primeiro projeto em Flutter usando Dart 💻
 
 ## Getting Started
 
